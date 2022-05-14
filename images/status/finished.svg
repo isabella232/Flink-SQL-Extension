@@ -1,15 +1,1 @@
-<svg width="288" height="288" xmlns="http://www.w3.org/2000/svg">
-
- <g>
-  <title>background</title>
-  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
- </g>
- <g>
-  <title>Layer 1</title>
-  <g fill="#396849" id="SvgjsG1023">
-   <svg fill="#1890ff" id="svg_1" viewBox="0 0 16 16" height="288" width="288">
-    <path id="svg_2" class="color000 svgShape" fill="#1890ff" d="m8,4a4,4 0 1 0 0,8a4,4 0 0 0 0,-8z" fill-rule="evenodd"/>
-   </svg>
-  </g>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="288" height="288"><g><title>background</title><rect id="canvas_background" width="802" height="602" x="-1" y="-1" fill="none"/></g><g><title>Layer 1</title><g id="SvgjsG1023" fill="#396849"><svg id="svg_1" width="288" height="288" fill="#1890ff" viewBox="0 0 16 16"><path id="svg_2" fill="#1890ff" fill-rule="evenodd" d="m8,4a4,4 0 1 0 0,8a4,4 0 0 0 0,-8z" class="color000 svgShape"/></svg></g></g></svg>
